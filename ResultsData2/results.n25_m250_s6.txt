@@ -1,0 +1,6 @@
+Number of solutions= 1
+
+13  
+F1= 1 ,F2= 1080
+
+

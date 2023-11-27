@@ -1,0 +1,6 @@
+Number of solutions= 1
+
+5  10  13  16  17  
+F1= 5 ,F2= 1611
+
+

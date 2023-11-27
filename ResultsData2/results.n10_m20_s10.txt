@@ -1,0 +1,6 @@
+Number of solutions= 1
+
+4  8  
+F1= 2 ,F2= 422
+
+

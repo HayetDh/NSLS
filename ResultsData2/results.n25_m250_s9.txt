@@ -1,0 +1,6 @@
+Number of solutions= 1
+
+0  3  
+F1= 2 ,F2= 1055
+
+
